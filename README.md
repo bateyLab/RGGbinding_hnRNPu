@@ -2,9 +2,12 @@
 ## Bioinformatic G-quadruplex analysis of pureCLIP data of hnRNPu
    The code shown in this repository was used to analize the overlap between hnRNPu binding sites in the transcriptome and genomic G-quadruplexes
 
+### Data sources
+
+### File descriptions
 [**bedloop.sh**](https://github.com/bateyLab/RGGbinding_hnRNPu/blob/main/bedloop.sh) - used to generate BED files of the same size as hnRNPu pureCLIP data from random regions of the transcriptome.
 
-[**bedloop_int.sh**](https://github.com/bateyLab/RGGbinding_hnRNPu/blob/main/bedloop_int.sh)
+[**bedloop_int.sh**](https://github.com/bateyLab/RGGbinding_hnRNPu/blob/main/bedloop_int.sh) - used to measure the intersection of all random BED files with RG4 sites to provide a null distribution of the number of intersections with G4s expected if there was no correlation.
 
 [**InvivoGQs_Final_Script.R**](https://github.com/bateyLab/RGGbinding_hnRNPu/blob/main/InvivoGQs_Final_Script.R) 
 
