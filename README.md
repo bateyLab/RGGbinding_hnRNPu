@@ -3,8 +3,10 @@
    The code shown in this repository was used to analize the overlap between hnRNPu binding sites in the transcriptome and genomic G-quadruplexes
 
 ### Data sources
-hnRNPu pureCLIP data was obtained from:
-RG4 ChIP-seq data was obtained from:
+# Check that this is correct!
+hnRNPu eCLIP data was obtained from: [ENCFF408HQB](https://www.encodeproject.org/files/ENCFF408HQB/) and [ENCFF039XQD](https://www.encodeproject.org/files/ENCFF408HQB/)
+RG4 ChIP-seq data was obtained from: GSE77282
+[GSE77282_KPDS_hits.bed.gz](https://ftp.ncbi.nlm.nih.gov/geo/series/GSE77nnn/GSE77282/suppl/GSE77282_KPDS_hits.bed.gz)
 
 ### File descriptions
 [**bedloop.sh**](https://github.com/bateyLab/RGGbinding_hnRNPu/blob/main/bedloop.sh) - used to generate BED files of the same size as hnRNPu pureCLIP data from random regions of the transcriptome.
