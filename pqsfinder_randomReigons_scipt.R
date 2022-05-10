@@ -1,12 +1,8 @@
-#pqsfinder documentation
-browseVignettes("pqsfinder")
-
+#Lad libraries
 library(pqsfinder)
-#library(universalmotif)
 library(Biostrings)
 library(ggplot2)
 library(tidyr)
-#library(RColorBrewer)
 
 
 #read fasta file into R as DNAStringSet
@@ -59,7 +55,6 @@ ggplot(as.data.frame(numRandomWinnersVec)) +
   #geom_function(fun = dnorm, args = list(mean = mean(numRandomWinnersVec), sd = sd(numRandomWinnersVec)), color = "#2166ac")+
   geom_vline(xintercept = numWinners, color = "#b2182b", size = 1.3)+
   theme_classic()#+
-  #geom_text(x=73, label="predicted GQ's", y=0.125, color = "black")
 
 
 print("Number of predicted GQ's: " )
