@@ -4,9 +4,11 @@
 
 ### Data sources
 # Check that this is correct!
-hnRNPu eCLIP data was obtained from: [ENCFF408HQB](https://www.encodeproject.org/files/ENCFF408HQB/) and [ENCFF039XQD](https://www.encodeproject.org/files/ENCFF408HQB/)
+hnRNPu eCLIP data was obtained from: [ENCSR520BZQ](https://www.encodeproject.org/experiments/ENCSR520BZQ/) and [ENCSR240MVJ](https://www.encodeproject.org/experiments/ENCSR240MVJ/)
+Files: [ENCFF408HQB](https://www.encodeproject.org/files/ENCFF408HQB/), [ENCFF638WUB](https://www.encodeproject.org/files/ENCFF638WUB/), [ENCFF587FNW](https://www.encodeproject.org/files/ENCFF587FNW/), [ENCFF024FCB](https://www.encodeproject.org/files/ENCFF024FCB/)
 
-RG4 ChIP-seq data was obtained from: GSE77282
+RG4 ChIP-seq data was obtained from: [GSE77282](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE77282)
+File:
 [GSE77282_KPDS_hits.bed.gz](https://ftp.ncbi.nlm.nih.gov/geo/series/GSE77nnn/GSE77282/suppl/GSE77282_KPDS_hits.bed.gz)
 
 ### File descriptions
