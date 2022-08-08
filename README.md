@@ -3,7 +3,6 @@
    The code shown in this repository was used to analize the overlap between hnRNPu binding sites in the transcriptome and genomic G-quadruplexes
 
 ### Data sources
-# Check that this is correct!
 hnRNPu eCLIP data was obtained from: [ENCSR520BZQ](https://www.encodeproject.org/experiments/ENCSR520BZQ/) and [ENCSR240MVJ](https://www.encodeproject.org/experiments/ENCSR240MVJ/)
 Files: [ENCFF408HQB](https://www.encodeproject.org/files/ENCFF408HQB/), [ENCFF638WUB](https://www.encodeproject.org/files/ENCFF638WUB/), [ENCFF587FNW](https://www.encodeproject.org/files/ENCFF587FNW/), [ENCFF024FCB](https://www.encodeproject.org/files/ENCFF024FCB/)
 
